@@ -1,25 +1,23 @@
-# Day 1 - Linear Search 🔍
+# Day 1 - Linear Search 
 
-## 💡 Problem
+Problem
 Given a list of elements and a target value, find the index of the target using Linear Search.
 
-## 🧠 Algorithm
+Algorithm
 - Start from index 0 and move forward.
 - Compare each element with the target.
 - If match found, return index.
 - If not, return -1.
 
-## 💻 Code
+## Code
 See: `linear_search.py`
 
-## 🚀 Example
+##  Example
 Input: `[10, 25, 7, 30, 45]`, Target: `30`  
 Output: `Element found at index 3`
 
-## 📊 Time Complexity
+##  Time Complexity
 - Best Case: O(1)
 - Worst Case: O(n)
 
 ---
-
-📁 Folder Structure:
